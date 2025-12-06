@@ -1,4 +1,3 @@
-# HTML-Old-Project
 # HTML/CSS Website V1
 
 A responsive and modern website template built to demonstrate frontend development skills using core web technologies. This project focuses on clean code structure, responsive layout, and interactive elements.
